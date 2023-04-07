@@ -4,7 +4,7 @@ Capstone Project for US AI Academy - 2nd Semester
 
 This data set has been downloaded from the Amazon ficial web site at: https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews , enter the link and click on "Download". Make shure to add the rute of the folder where you have saved the data. 
 
-# Sumary
+# Summary
 - Project Proposal
 - File to extract data: amazon_alexa.tsv
 - Project file: Index.ipynb
